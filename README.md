@@ -1,4 +1,5 @@
 # Data cleaning and EDA in MySQL
+# Skills used : CTE, Window functions, Join, Aggregates, CRUD operations
 
 The project has two phases:
 1. Data cleaning: 
